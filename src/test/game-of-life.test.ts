@@ -1,4 +1,4 @@
-import { GameOfLife } from "../src/game-of-life";
+import { GameOfLife } from "../game-of-life";
 
 describe("GameOfLife", () => {
   it("should return empty board", () => {

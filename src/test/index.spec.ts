@@ -1,4 +1,4 @@
-import {add} from "../src/index";
+import {add} from "../index";
 
 describe("test", () => {
   it("test", () => {
