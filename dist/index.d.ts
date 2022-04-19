@@ -1,2 +1,2 @@
-export declare function add(a: number, b: number): number;
+export {};
 //# sourceMappingURL=index.d.ts.map
